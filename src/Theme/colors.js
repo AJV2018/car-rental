@@ -1,0 +1,26 @@
+export const primaryColor = '#d32f2f'
+
+export const darkRedGradient = '#811316'
+export const lightRedGradient = '#DC1B26'
+export const white = '#ffffff'
+export const translucentWhite = 'rgba(255,255,255,0.5)' 
+export const translucentBlack = 'rgba(0,0,0,0.5)' 
+export const backgroundColor = '#f0f0f0'
+export const grey = '#9e9e9e'
+export const lightGrey = '#bdbdbd'
+export const lightGreen = '#66ffa6'
+export const almostBlack = '#222'
+export const darkRed = '#ba000d'
+export const lightRed = '#ff5252'
+export const lightIndigo = '#7986cb'
+export const yellow = '#fbc02d'
+export const translucentRed = 'rgba(186, 0, 13,0.75)'
+export const redBackground = '#ffebee'
+export const yellowBackground = '#fffde7'
+export const indigoBackground = '#e8eaf6'
+export const pureBlack = '#000'
+
+
+export const orange = '#fb8c00'
+export const darkOrange = '#c25e00'
+
